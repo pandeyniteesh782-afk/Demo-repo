@@ -6,10 +6,9 @@ main()
 	{
 	int empid;//structure member
 	char empname[50];
-
-#include<stdlib.h>t salary;	
+	double salary;	
 	};
-	struct employee e;//structure variable
+struct employee e;//structure variable
 printf("Enter Employee Id :");
 scanf("%d",&e.empid);
 fflush(stdin);
